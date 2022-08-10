@@ -1,0 +1,25 @@
+html,
+body {
+  height: 100%;
+  margin: 0;
+}
+
+body {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+
+  background: #121212;
+  font-size: 1.5rem;
+}
+
+main {
+  color: #fff6d5;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+#github {
+  text-decoration: none;
+  color: inherit;
+}
